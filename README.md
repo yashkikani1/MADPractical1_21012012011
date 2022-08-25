@@ -1,4 +1,5 @@
 # MADpractical1_21012012011<img width="889" alt="1" src="https://user-images.githubusercontent.com/110801454/186212222-ae66bef2-9095-432c-a142-765a6712ab59.PNG">
+Practical1.Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
 <img width="928" alt="2" src="https://user-images.githubusercontent.com/110801454/186212247-203e0af7-3abf-4935-8793-5f73d9c4ee67.PNG">
 <img width="883" alt="3" src="https://user-images.githubusercontent.com/110801454/186212278-a6acca74-87f2-4ba0-97ba-b1905c435a4c.PNG">
 <img width="475" alt="4" src="https://user-images.githubusercontent.com/110801454/186212289-7df80b05-2668-425a-aba6-cfe7286e96be.PNG">
